@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "aca2store1"
+      "value": "alexstoretest2015"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "sysadmin"
     },
     "adminPassword": {
       "value": "Passw0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "acacl4321"
+      "value": "alexdnspublico"
     },
     "location": {
       "value": "West US"
